@@ -1,0 +1,14 @@
+#leftSideCard{
+    background-color: palevioletred;
+    color: white;
+    display: inline-block;
+    width: 50%;
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+}
+#rightSideCard{
+    color: white;
+    width: 50%;
+}
